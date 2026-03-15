@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("You're a nigga fuck")
+
